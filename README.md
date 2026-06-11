@@ -1,4 +1,4 @@
-# GraphRAG Knowledge Graph Reasoning System
+# Hybrid-Graph-Vector-LLM-Reasoning-System
 
 ## Overview
 
